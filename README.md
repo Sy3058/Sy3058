@@ -36,6 +36,12 @@
 
 `Python` `JEV` · [사용 방법과 검증 범위](https://github.com/Sy3058/jev-evaluate#readme)
 
+## Problem Solving
+
+백준에서 **Gold I**까지 달성했습니다. 알고리즘 풀이 코드는 [coding-test](https://github.com/Sy3058/coding-test) 저장소에 정리되어 있습니다.
+
+[![aosj113의 solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=aosj113)](https://solved.ac/profile/aosj113)
+
 ## Skills
 
 **주로 사용합니다**  
